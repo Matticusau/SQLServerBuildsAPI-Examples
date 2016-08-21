@@ -3,7 +3,7 @@ A collection of samples code for using my the SQL Server Builds API
 
 ## About the API
 
-The SQL Server Builds API provides SQL Server Version information and known support lifecycle information. As it is a personal project of mine the data is currently manually maintained based on known sources. The main objective of the tool is to enhance health check and project planning type processes, it is not intended for licensing or other legal auditing processes.
+The SQL Server Builds API provides SQL Server Version information and known support life-cycle information. As it is a personal project of mine the data is currently manually maintained based on known sources. The main objective of the tool is to enhance health check and project planning type processes, it is not intended for licensing or other legal auditing processes.
 
 For more information on the SQL Server Builds API read the [blog post](http://blog.matticus.net)
 
