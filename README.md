@@ -41,6 +41,6 @@ TBA
 If you are interested in contributing please check out common DSC Resources [contributing guidelines](https://github.com/PowerShell/DscResource.Kit/blob/master/CONTRIBUTING.md). These are the standards I try and adopt for my work as well.
 
 ## License
-This module is released under the [MIT License](https://github.com/Matticusau/SQLServerBuildsAPI-Examples/blob/master/LICENSE)
+These exampels are released under the [MIT License](https://github.com/Matticusau/SQLServerBuildsAPI-Examples/blob/master/LICENSE)
 
 
