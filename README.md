@@ -7,6 +7,25 @@ The SQL Server Builds API provides SQL Server Version information and known supp
 
 For more information on the SQL Server Builds API read the [blog post](http://blog.matticus.net)
 
+## PowerShell Examples
+
+### Simple static value example
+* PowerShell/SimpleExample-VersionInfo.ps1
+* PowerShell/SimpleExample-MissingUpdates.ps1
+
+### Single Instance
+* PowerShell/SingleInstance-VersionInfo.ps1
+* PowerShell/SingleInstance-MissingUpdates.ps1
+
+### Multiple Instances
+* PowerShell/MultipleInstances-VersionInfo.ps1
+* PowerShell/MultipleInstances-MissingUpdates.ps1
+
+
+## C# Examples
+TBA
+
+
 ## Versions
 
 ### Unreleased
