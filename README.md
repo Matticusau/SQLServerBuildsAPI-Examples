@@ -5,7 +5,7 @@ A collection of samples code for using my the SQL Server Builds API
 
 The SQL Server Builds API provides SQL Server Version information and known support life-cycle information. As it is a personal project of mine the data is currently manually maintained based on known sources. The main objective of the tool is to enhance health check and project planning type processes, it is not intended for licensing or other legal auditing processes.
 
-For more information on the SQL Server Builds API read the [blog post](http://blog.matticus.net)
+For more information on the SQL Server Builds API read the [blog post](http://blog.matticus.net/2016/08/new-sql-server-builds-api-improve-your.html)
 
 ## PowerShell Examples
 
@@ -23,7 +23,9 @@ For more information on the SQL Server Builds API read the [blog post](http://bl
 
 
 ## C# Examples
-TBA
+
+### APIClientDemo
+* A Windows Form demo of querying the API
 
 
 ## Versions
@@ -31,6 +33,11 @@ TBA
 ### Unreleased
 
 * None
+
+### 0.0.0.2
+
+* Added more examples
+    * APIClientDemo c# Windows Form example 
 
 ### 0.0.0.1
 
